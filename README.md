@@ -18,4 +18,4 @@ The goal of this game is for the player to reach the water on the other side of 
 
 ## Acknowledgments
 
-Matthew Cranford Blog - [Arcade Game Walkthrough] (https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/)
+Matthew Cranford Blog - [Arcade Game Walkthrough](https://matthewcranford.com/arcade-game-walkthrough-part-1-starter-code-breakdown/)
